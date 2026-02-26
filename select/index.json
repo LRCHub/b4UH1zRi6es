@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Gantung",
+  "base_artist": "Melly Goeslaw",
+  "createdAt": "2026-02-26T16:32:53.043087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gantung",
+      "artist": "Melly Goeslaw",
+      "has_synced": true,
+      "path": "select/01_Gantung_Melly_Goeslaw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gantung (Electroks Mix)",
+      "artist": "Melly",
+      "has_synced": true,
+      "path": "select/02_Gantung_(Electroks_Mix)_Melly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01 Gantung",
+      "artist": "Melly",
+      "has_synced": true,
+      "path": "select/03_01_Gantung_Melly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gantung",
+      "artist": "Ikke Nurjanah",
+      "has_synced": true,
+      "path": "select/04_Gantung_Ikke_Nurjanah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gantung",
+      "artist": "Melly Goeslaw",
+      "has_synced": true,
+      "path": "select/05_Gantung_Melly_Goeslaw.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Melly Goeslaw - Gantung (Lirik)",
+      "artist": "Magic",
+      "has_synced": true,
+      "path": "select/06_Melly_Goeslaw_-_Gantung_(Lirik)_Magic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jembatan Gantung",
+      "artist": "SLANK",
+      "has_synced": true,
+      "path": "select/07_Jembatan_Gantung_SLANK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gantung",
+      "artist": "Melly Goeslaw",
+      "has_synced": true,
+      "path": "select/08_Gantung_Melly_Goeslaw.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gantung Aku Di Monas",
+      "artist": "Meggy Diaz",
+      "has_synced": true,
+      "path": "select/09_Gantung_Aku_Di_Monas_Meggy_Diaz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gantung",
+      "artist": "Melly Goeslaw",
+      "has_synced": true,
+      "path": "select/10_Gantung_Melly_Goeslaw.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gantung",
+      "artist": "Deborah Hanna",
+      "has_synced": true,
+      "path": "select/11_Gantung_Deborah_Hanna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Melly Goeslaw - Gantung",
+      "artist": "MELLY",
+      "has_synced": true,
+      "path": "select/12_Melly_Goeslaw_-_Gantung_MELLY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gantung Waris",
+      "artist": "Andri Aan",
+      "has_synced": false,
+      "path": "select/13_Gantung_Waris_Andri_Aan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gantung",
+      "artist": "Melly Goeslaw",
+      "has_synced": false,
+      "path": "select/pl_01_Gantung_Melly_Goeslaw.txt"
+    }
+  ]
+}
